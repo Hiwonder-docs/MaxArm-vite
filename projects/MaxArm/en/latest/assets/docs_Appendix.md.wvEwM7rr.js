@@ -1,0 +1,13 @@
+import { _ as _export_sfc, o as openBlock, c as createElementBlock, ak as createStaticVNode } from "./chunks/framework.BzKeSD6-.js";
+const __pageData = JSON.parse('{"title":"Appendix","description":"","frontmatter":{},"headers":[],"relativePath":"docs/Appendix.md","filePath":"docs/Appendix.md"}');
+const _sfc_main = { name: "docs/Appendix.md" };
+function _sfc_render(_ctx, _cache, $props, $setup, $data, $options) {
+  return openBlock(), createElementBlock("div", null, [..._cache[0] || (_cache[0] = [
+    createStaticVNode('<h1 id="appendix" tabindex="-1">Appendix <a class="header-anchor" href="#appendix" aria-label="Permalink to &quot;Appendix&quot;">​</a></h1><ul><li><p>Google Drive: <a href="https://drive.google.com/drive/folders/1wi-O2ia-izYWM979iByIws6S4LRe7LKI?usp=sharing" target="_blank" rel="noreferrer">MaxArm Resources</a></p></li><li><p>Source Code &amp; Diagram: <a href="https://drive.google.com/drive/folders/15XAwDDnfFB57DrWZWVq7nfe4r8x2UV9H?usp=sharing" target="_blank" rel="noreferrer">Codes &amp; Drawings</a></p></li><li><p>Wonderbot App Installation Pack: <a href="https://apps.apple.com/us/app/wonderbot-robot/id1519146341" target="_blank" rel="noreferrer">iOS</a> &amp; <a href="https://play.google.com/store/apps/details?id=com.Wonder.bot" target="_blank" rel="noreferrer">Android</a></p></li><li><p>PC Software Installation Pack: <a href="https://www.hiwonder.net/robot-debugging-software" target="_blank" rel="noreferrer">MaxArm.exe</a></p></li><li><p>Action Group Files: <a href="https://drive.google.com/drive/folders/1Ii6Z50ijTbUCkW3Fy0M_jUknY5roLmM2?usp=sharing" target="_blank" rel="noreferrer">MaxArm.zip</a></p></li><li><p>Arduino IDE Installation Pack: <a href="https://drive.google.com/drive/folders/11YIhtGbHlWg53pQuPXkmm4BttM-OrxYG?usp=sharing" target="_blank" rel="noreferrer">Arduino</a></p></li><li><p>ESP32 Development Software Installation Package: <a href="https://drive.google.com/drive/folders/138TrE1ADn7sqRK_5drQHhXo48vuCFCKz?usp=sharing" target="_blank" rel="noreferrer">STM32</a></p></li><li><p>Python Development Software Installation Package: <a href="https://www.hiwonder.net/pc-programming-software" target="_blank" rel="noreferrer">Python Editor</a></p></li><li><p>Serial Port Debbugging Tool: <a href="https://drive.google.com/drive/folders/1F_ADk09D0V1_U9W8hbY4D23OKsYznMkO?usp=sharing" target="_blank" rel="noreferrer">Serialportutilitylatest.exe</a></p></li><li><p>Debugging Tool: <a href="https://drive.google.com/drive/folders/14Kt5jtzp3BMTrrwNGLvckBSuULh3Qwkf?usp=sharing" target="_blank" rel="noreferrer">MaxArm Servo Tool.exe</a></p></li></ul>', 2)
+  ])]);
+}
+const Appendix = /* @__PURE__ */ _export_sfc(_sfc_main, [["render", _sfc_render]]);
+export {
+  __pageData,
+  Appendix as default
+};
